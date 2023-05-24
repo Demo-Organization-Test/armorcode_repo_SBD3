@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - master 
-      - main
+      - main 
 env: 
   armorCode_projectName: 'Project_SBD3'
   armorCode_MicroserviceName: 'SubProduct_SBD3'
